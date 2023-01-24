@@ -1,5 +1,8 @@
 <h1>Stakbucks</h1>
 
+<h2>BLOG: https://velog.io/@stakbucks </h2>
+
+
 Netflix Clone using React.js + typescript : https://stakbucks.github.io/netflix-clone/
 
 Movie-App created using React.js : https://stakbucks.github.io/Movie-App/
