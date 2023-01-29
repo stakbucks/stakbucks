@@ -2,7 +2,7 @@
 
 <h2>BLOG: https://velog.io/@stakbucks </h2>
 
-<img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-007AAC?style=flat&logo=C&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
