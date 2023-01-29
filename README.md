@@ -1,15 +1,24 @@
-<h1>Stakbucks</h1>
+# <div align=center>Welcome to Stakbucks</div>
 
-<h2>BLOG: https://velog.io/@stakbucks </h2>
+## My Blog
 
-<img src="https://img.shields.io/badge/-007AAC?style=flat&logo=C&logoColor=white"/>
+👉🏻 [![Blog](https://img.shields.io/badge/-VELOG-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@stakbucks) 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-Netflix Clone using React.js + typescript : https://stakbucks.github.io/netflix-clone/
 
-Movie-App created using React.js : https://stakbucks.github.io/Movie-App/
 
-Momentum created using React.js : https://stakbucks.github.io/momentum-React/
+## My tech stack 🖥
+<div align=center>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-Momentum created using Vanilla Javascript : https://stakbucks.github.io/momentum-vanillaJS/
+
+
