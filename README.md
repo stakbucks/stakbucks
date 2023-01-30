@@ -1,13 +1,13 @@
- <div align=center><h1>☕️ Welcome to Stakbucks ☕️</h1></div>
+<h3 align=center> ☕️ Welcome to Stakbucks ☕️ </h3>  
+ 
 
-## My Blog
-
+**MY BLOG**
 👉🏻 [![Blog](https://img.shields.io/badge/-VELOG-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@stakbucks) 
 
 
 
 
-## My tech stack 🖥
+### My tech stack 🖥
 <div align=center>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"> 
