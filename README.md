@@ -1,4 +1,4 @@
-<h3 align=center> ☕️ Welcome to Stakbucks ☕️ </h3>  
+<h3 align=center> ☕️  Stakbucks ☕️ </h3>  
  
 
 **MY BLOG**
